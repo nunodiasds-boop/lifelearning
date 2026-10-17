@@ -38,7 +38,13 @@ const SO_VER = opt("--ver")
 const ENVIAR = opt("--enviar")
 
 // Pastas que nunca saem, aconteça o que acontecer.
-const PROIBIDAS = ["07 Privado", "00 Inbox", "90 Anexos/Modelos de nota"]
+const PROIBIDAS = [
+  "07 Privado",
+  "00 Inbox",
+  "90 Anexos/Modelos de nota",
+  "91 conteudo", // documentos do currículo e soluções dos problemas
+  "92 Recursos", // PDFs e livros com direitos de autor
+]
 // Nome público de cada pasta (URLs limpos).
 const MAPA = {
   "01 Temas": { pasta: "temas", titulo: "Temas" },

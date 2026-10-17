@@ -16,6 +16,8 @@ configuration:
     - "07 Privado"
     - "00 Inbox"
     - "**/Modelos de nota"
+    - "91 conteudo"
+    - "92 Recursos"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
