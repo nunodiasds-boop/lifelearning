@@ -16,6 +16,5 @@ Cada tema dura cinco semanas e deixa aqui um dossier, um ensaio e fichas de mode
 - **Modelos**: uma ficha por modelo mental, sempre com um exemplo fora da área de origem.
 - **Fontes**: fichas de livros e artigos.
 
-[edita: duas ou três frases sobre ti, o que quiseres tornar público]
-
+Teste de conteúdo - vamos ver
 
