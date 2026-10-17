@@ -18,8 +18,4 @@ Cada tema dura cinco semanas e deixa aqui um dossier, um ensaio e fichas de mode
 
 [edita: duas ou três frases sobre ti, o que quiseres tornar público]
 
-   cd ~/lifelearning
-   npm ci
-   npm run publicar:ver     # mostra o que sairia
-   npm run publicar && npm run site   # pré-visualização em localhost:8080
-   git add -A && git commit -m "Configurar o site" && git push
+
